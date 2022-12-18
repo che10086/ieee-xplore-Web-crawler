@@ -8,5 +8,6 @@ python运行版本推荐3.8以上
 在运行程序前，请申请一个有道翻译私人API，填入trans.py文件开头的应用ID和应用密钥。  
   
 运行方法：运行main.py  
+  
 运行示例:  
-![](https://github.com/che10086/ieee-xplore-Web-crawler/blob/main/demo.png)
+![](https://github.com/che10086/ieee-xplore-Web-crawler/blob/main/demo.png)  

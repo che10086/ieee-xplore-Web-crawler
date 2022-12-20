@@ -92,5 +92,7 @@ for airtcle_number in Airtcle_List:
     run = p.add_run('https://ieeexplore.ieee.org/document/' + str(airtcle_number))
     run.bold = False
 
+    document.add_page_break()
+
 document.save(searchword.replace(" ", "_") + '.docx')
 print('\n', 'Finish!')
